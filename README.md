@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **R Language**
 
 - 👨‍💻 All of my projects are available at [https://thiagoalvesportfolio.vercel.app/](https://thiagoalvesportfolio.vercel.app/)
 
-- 💬 Ask me about **React Native Python JavaScript** 
+- 💬 Ask me about **Python and Machine Learning** 
 
 - 📫 How to reach me **thiagocontato1232@gmail.com**
 
