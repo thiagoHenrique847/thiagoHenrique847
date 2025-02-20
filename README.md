@@ -1,5 +1,5 @@
 <h1 align="center">Hi 📱, I'm Thiago Alves</h1>
-<h3 align="center">A passionate Web and Mobile developer from Brazil</h3>
+<h3 align="center">A passionate Data Scientist</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/85/04/77/850477fed08bfe98598082bcd309ce70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thiagohenrique847&label=Profile%20views&color=0e75b6&style=flat" alt="thiagohenrique847" /> </p>
